@@ -1,0 +1,24 @@
+{
+  "name": "buffer-stream-converter",
+  "version": "1.0.0",
+  "description": "Convert Stream to Buffer and vise versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PazzaVlad/buffer-stream-converter.git"
+  },
+  "keywords": [
+    "stream",
+    "buffer",
+    "converter"
+  ],
+  "author": "Vlad Harb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PazzaVlad/buffer-stream-converter/issues"
+  },
+  "homepage": "https://github.com/PazzaVlad/buffer-stream-converter#readme"
+}
